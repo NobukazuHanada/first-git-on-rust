@@ -1,5 +1,3 @@
-extern crate core;
-
 use first_git::cache::{DB_ENVIRONMENT, DEFAULT_DB_ENVIRONMENT};
 use std::env::var;
 use std::fs::{create_dir, create_dir_all, metadata};
